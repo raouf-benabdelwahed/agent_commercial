@@ -1,0 +1,10 @@
+product,base_price,option,option_price
+CRM Starter,400,,
+CRM Starter,400,Support Standard,50
+CRM Starter,400,Support Premium,120
+CRM Pro,800,,
+CRM Pro,800,Support Premium,200
+CRM Pro,800,Onboarding (formation 1 jour),500
+Sales Intelligence,1500,,
+Sales Intelligence,1500,Pack IA,400
+Sales Intelligence,1500,Pack IA + Formation,900
