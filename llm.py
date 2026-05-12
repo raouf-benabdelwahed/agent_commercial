@@ -2,7 +2,7 @@ import os
 import google.generativeai as genai
 
 LLM_PROVIDER = os.getenv("LLM_PROVIDER", "gemini")  # gemini
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyCSWsDY2gxH6tXvR-L0_KRLMvnLNzz-rEc")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyD5Qu5GfyBfvxVcKw6VLiIsR-H97rLh6-s")
 GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
 
 
